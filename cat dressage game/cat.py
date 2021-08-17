@@ -52,11 +52,11 @@ class Cat:
           if(self.expLevel >= 2):
                print("Game << You are washing your cat ...")
                time.sleep(4)
-               print("UwU << O O o O o O Miaou! O o O o O O .")
+               print("UwU [ {} ] << O O o O o O Miaou! O o O o O O .".format(self.personalname))
                time.sleep(4)
-               print("UwU << O O o O o O Miaou! O o O o O O . .")
+               print("UwU [ {} ] << O O o O o O Miaou! O o O o O O . .".format(self.personalname))
                time.sleep(4)
-               print("UwU << O O o O o O Miaou! O o O o O O . . .")
+               print("UwU [ {} ] << O O o O o O Miaou! O o O o O O . . .".format(self.personalname))
                time.sleep(4)
                if(self.canGetExperience):
                     print("Game << + {} exp points".format(settings.washExperience))
