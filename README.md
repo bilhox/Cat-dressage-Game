@@ -5,12 +5,12 @@ In this game , you will tame your cat to gain experience points and get a higher
 
 At the beginning , you have the rank Simple one , and by taming your cat you will pass by all the ranks undermentioned :
 
-Level 1 = Simple one
-Level 2 = Professional of caress
-Level 3 = Tamer amateur
-Level 4 = Expert of taming
-Level 5 = Tamer professional
-Level 6 = Master of cats
+- Level 1 = Simple one
+- Level 2 = Professional of caress
+- Level 3 = Tamer amateur
+- Level 4 = Expert of taming
+- Level 5 = Tamer professional
+- Level 6 = Master of cats
 
 As things progress , you will able to :
 
