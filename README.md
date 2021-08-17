@@ -1,4 +1,11 @@
 # Cat-dressage-Game
+
+**How to launch the game**
+
+To launch the game , you need to install the Python interpreter and launch the file main.py .
+
+**Presentation of the Game**
+
 Hello everyone , this is the first game of my tea room , a mini-game where you need to become the best tamer of cats !
 
 In this game , you will tame your cat to gain experience points and get a higher a rank , the objective : Become the Master of cats (The higher rank) !
